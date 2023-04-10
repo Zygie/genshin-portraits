@@ -17,3 +17,5 @@ Character Portraits: [Genshin Account Center](https://www.hoyolab.com/genshin/ac
 Fill Slot Icon: [Free SVG](https://freesvg.org/user-icon-picture)
 
 Undo Icon: [Material.io](https://material.io/resources/icons/)
+
+Updated for 3.5
